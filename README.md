@@ -1,7 +1,7 @@
 # Potato Leaf Disease Classification using Deep Learning
 
 ## Team Project
-This project was developed by a team of three members as part of our B.Tech Computer Science and Engineering final-year project.
+This project was developed by a team of three members as part of our B.Tech Computer Science and Engineering pre final-year project.
 
 ## Project Overview
 The objective of this project is to classify potato leaf diseases using deep learning models. The model predicts whether a leaf is:
